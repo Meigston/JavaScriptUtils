@@ -1,4 +1,4 @@
-function DateDecribeExample() {
+function DateDescribeExample() {
 
 	var months = [];
 	for(var month = 0; month < 12; month++){
